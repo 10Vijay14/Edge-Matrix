@@ -1,0 +1,7 @@
+path: C:/Users/mbsas/OneDrive/Dokumenty/Edge Matrix/Helmets/YOLOv5
+train: data/images/train
+val: data/images/val
+
+nc: 2
+names: ['With Helmet', 'Without Helmet']
+  
